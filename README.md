@@ -8,6 +8,6 @@ text file]
 
 
 
-[Jack Baty]: http://baty.net
+[Jack Baty's]: http://baty.net
 [My reading list as a text file]:
 http://baty.net/2014/my-reading-list-as-a-text-file/
